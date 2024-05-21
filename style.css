@@ -6,3 +6,10 @@
   align-items: center;
   border: 2px solid blue;
 }
+.text {
+  font-size: 3rem;
+  color: #0072c6;
+}
+.text span {
+  color: #f7941e;
+}
