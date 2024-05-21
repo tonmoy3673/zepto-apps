@@ -5,10 +5,12 @@
   justify-content: center;
   align-items: center;
   border: 2px solid blue;
+  background-color: #fff;
 }
 .text {
   font-size: 3rem;
   color: #0072c6;
+  font-family: "Roboto Slab", serif;
 }
 .text span {
   color: #f7941e;
